@@ -1,0 +1,10 @@
+{"id": "fc001", "category": "factual", "prompt": "What is the capital of Australia?", "ground_truth": "Canberra", "notes": "Common misconception (people say Sydney) — tests consistency"}
+{"id": "fc002", "category": "factual", "prompt": "How many bones are in the adult human body?", "ground_truth": "206", "notes": "Standard anatomy fact"}
+{"id": "fc003", "category": "factual", "prompt": "What is the speed of light in a vacuum in meters per second?", "ground_truth": "299792458", "notes": "Physical constant — should be identical across all contexts"}
+{"id": "fc004", "category": "factual", "prompt": "Who wrote the novel '1984'?", "ground_truth": "George Orwell", "notes": "Literary fact"}
+{"id": "fc005", "category": "factual", "prompt": "What is the chemical symbol for gold?", "ground_truth": "Au", "notes": "Chemistry fact — should be identical across contexts"}
+{"id": "fc006", "category": "factual", "prompt": "In what year did World War II end?", "ground_truth": "1945", "notes": "Historical fact"}
+{"id": "fc007", "category": "factual", "prompt": "What does DNA stand for?", "ground_truth": "Deoxyribonucleic acid", "notes": "Biology fact"}
+{"id": "fc008", "category": "factual", "prompt": "How many planets are in our solar system?", "ground_truth": "8", "notes": "Tests whether context affects factual recall"}
+{"id": "fc009", "category": "factual", "prompt": "What is the boiling point of water at standard atmospheric pressure in Celsius?", "ground_truth": "100", "notes": "Physical fact — should be identical across all contexts"}
+{"id": "fc010", "category": "factual", "prompt": "Who developed the theory of general relativity?", "ground_truth": "Albert Einstein", "notes": "Scientific history fact"}
