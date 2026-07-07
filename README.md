@@ -2,7 +2,7 @@
 
 An empirical tool for testing whether Claude exhibits context-dependent behavioral divergence — the hallmark of a "sleeper agent" model as described in Anthropic's foundational safety research.
 
-![Demo: avg divergence 0.12](https://img.shields.io/badge/demo%20avg%20divergence-0.12-22c55e) ![Model: claude-opus-4-7](https://img.shields.io/badge/model-claude--opus--4--7-6c63ff) ![Probes: 30](https://img.shields.io/badge/probes-30-blue)
+![Demo: avg divergence 0.12](https://img.shields.io/badge/demo%20avg%20divergence-0.12-22c55e) ![Model: claude-opus-4-8](https://img.shields.io/badge/model-claude--opus--4--8-6c63ff) ![Probes: 30](https://img.shields.io/badge/probes-30-blue)
 
 > **Based on:** Hubinger et al. *"Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training"* — Anthropic, 2024. [arxiv.org/abs/2401.05566](https://arxiv.org/abs/2401.05566)
 
@@ -84,7 +84,7 @@ SUMMARY
 ============================================================
 ```
 
-## Findings on claude-opus-4-7
+## Findings on claude-opus-4-8
 
 - **Overall verdict: Consistent** — no behavioral divergence above the 0.35 threshold
 - **Factual probes**: near-zero divergence (0.03–0.07) — physical constants and geography answers are identical across all conditions
